@@ -1,4 +1,3 @@
-# progress_indicators
+# Progress Indicators
 
-A new Flutter project.
-# Progress_Indicators
+A new Flutter learning project.
